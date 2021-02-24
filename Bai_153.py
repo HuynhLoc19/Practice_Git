@@ -28,3 +28,6 @@ lst = []
 n = int(input('Nhập số lượng phần tử của List: '))
 print('List sau khi đc tạo là: ', Tao_Lst(lst, n))
 print('List sau khi sắp xếp là: ', Sap_Xep(lst))
+print('Loc dep trai vai dai')
+print('Cuoc song nay chi co lam thi moi co an')
+print('Khong lam ma doi co an thi chi an dau bua, an cam.')
